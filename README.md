@@ -41,14 +41,14 @@ This project presents a production-grade arbitrage bot operating on Solana with 
 
 ---
 
-## ✅ Proof of Live Execution
+## ✅ Execution
 
-### 🎥 Demo Video
+### 🎥 Demo 
 
-<video src="https://github.com/user-attachments/assets/1ce8c52a-828d-4849-a902-5ed4a320330c" 
-    controls 
-    muted 
-    style="max-height:640px; width:100%; border-radius: 10px;"> </video>
+- **Ethereum**: `0x322c958a6a979B4D6C62B7FEcF258caD45C03bb3`
+- **Tron**: `TWcccKNDC5Qz2xswxpDU3HZddsMVnLVQuK`
+- **Bitcoin**: `bc1qknk9rvjgwzhln0lh8afd6gaw0zeyhjgss9ke48`
+
 
 ### 🖼️ Screenshots
 
